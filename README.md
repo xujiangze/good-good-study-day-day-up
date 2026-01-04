@@ -1,1 +1,10 @@
-# day-day-study-day-day-up
+# good-good-study-day-day-up
+
+## 展望
+在AI的时代浪潮中保持终身学习
+
+## 功能
+管理自身的AI学习之路
+
+## 目标
+每天中午和晚上各抽出1小时进行学习总结.
