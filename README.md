@@ -1,4 +1,5 @@
 # good-good-study-day-day-up
+记录AI学习之路
 
 ## 展望
 在AI的时代浪潮中保持终身学习
